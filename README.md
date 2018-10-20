@@ -1,1 +1,3 @@
 # Neural Network Helper Tools
+
+In the process of creating different helper tools...
